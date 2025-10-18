@@ -1,57 +1,69 @@
-<!-- ================== Futuristic Header — Paste at top of README.md ================== -->
+Niyas 🚀
 
-<p align="center">
-  <img src="https://your-gif-or-svgbanner-url-here" alt="Holographic Banner" width="100%" />
-</p>
+Building AI tools and digital experiences that make an impact. 🌌
 
-# 👋 Hi, I'm **Niyas** — Futurist · Maker · AI Craftsman
+🌟 About Me
+Hey there! I'm Niyas, an Electronics & Communication Engineering student with a passion for blending AI, healthtech, design, and web development to create impactful solutions. I love crafting innovative tools that simplify complex problems, with a focus on healthtech and user-friendly digital experiences. When I'm not coding, you'll find me designing sleek graphics on Canva or exploring eco-friendly products on Shopify.
 
-> 🛰️ *Designing intelligent systems and digital experiences that feel like tomorrow.*  
-> I build human-centered AI + web products, craft clean UI, and ship pragmatic solutions that scale.
+🎓 Studying Electronics & Communication Engineering
+🧠 Certified in SAP; learning Python, Excel, and Web Development
+🌱 Passionate about AI-driven healthtech, sustainable tech, and creative design
+⚡ Fun fact: I’m always chasing the next big idea to make life healthier and smarter!
 
----
 
-### ✨ Vision (one-line)
-**Building tomorrow’s healthtech & utility tools — creative, privacy-first, and product-minded.**
+🛠️ Tech Stack
+Here’s the tech I’m working with to build the future:
 
----
 
-### 🚀 Single-line Power Tag (use as profile bio)
-**ECE Engineer · AI Innovator · Maker of MediScan-AI & smart web tools · Designer (Canva) · Shopify explorer**
 
----
+Category
+Tools & Technologies
 
-### 🔮 Superpowers (compact)
-`Python` · `Flask` · `AI/ML` · `Tailwind` · `Firebase` · `MongoDB` · `Shopify` · `Figma/Canva` · `SAP` · `Excel`
 
----
 
-### 🔥 Quick Pitch (elevator)
-I merge engineering discipline with creative design to prototype, iterate, and ship useful products — from **MediScan-AI (healthtech)** to an **ID Card Generator (Flask)**. I’m obsessed with clean UX, automation, and making tools people actually want to use.
+Programming
+ 
 
----
 
-### 🧭 What to explore next on my profile
-- **MediScan-AI** — medicine scanning + insights (AI + UX)  
-- **ID Card Generator** — fast, responsive, admin-ready (Flask)  
-- **Shopify experiments** — eco-friendly product store prototypes  
-- **Design playground** — Canva templates & presentation samples
+Web Development
+  
 
----
 
-### ✉️ Say hi / collaborate
-[Portfolio →](https://niyas-j.github.io/WebPage) · [LinkedIn →](https://www.linkedin.com/in/niyas-jahangeer/) · [Mail →](mailto:niyasjahangeer772@gmail.com)
+Design
 
----
 
-### ⚡ Visual Accent (replace with your animated banner GIF or SVG for extra futuristic glow)
-If you want a holo/typing animation, replace the image URL above with a GIF or animated SVG (small, looped, subtle). Example ideas:
-- a looping neon grid that pans slowly,
-- typing headline GIF: “Hi, I’m Niyas — Building AI tools →”
-- animated hologram of a device + code flowing
 
----
+Tools
+  
 
-> 💬 *“Design the future you imagine — ship it, test it, iterate.”* — **Niyas**
 
-<!-- ================== End Futuristic Header ================== -->
+Certifications
+
+
+
+
+🚀 Current Projects
+MediScan-AI 🩺
+An AI-powered healthtech platform designed to analyze medicines and simplify medical data for users. MediScan-AI empowers people to understand their prescriptions and health information with ease, using cutting-edge AI and intuitive design.
+
+Features: Medicine analysis, user-friendly medical data visualization, health insights
+Tech Stack: Python, TensorFlow, React, Flask
+Status: Actively developing new features and improving AI accuracy
+Repo: MediScan-AI
+
+More exciting projects coming soon! Stay tuned. ✨
+
+🌐 Connect with Me
+Let’s collaborate, share ideas, or just chat about tech and design!
+
+
+📊 GitHub Stats
+
+
+🏆 GitHub Trophies
+
+
+📈 Activity Graph
+
+
+“The future is not something we enter; the future is something we create.”Let’s build something extraordinary together! 💡
