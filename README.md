@@ -1,61 +1,71 @@
-# Niyas
+# Niyas 🚀
 
-**I build and ship production-ready AI and full-stack systems.**  
-Electronics & Communication Engineering student executing at the intersection of machine learning and scalable web applications.
+![Futuristic Banner](https://raw.githubusercontent.com/Niyas-J/Niyas-J/main/assets/futuristic-banner.svg)
 
----
-
-### About
-
-I solve real problems with clean code and fast delivery. Currently focused on deploying AI models into production web applications while leveraging my ECE foundation for hardware-aware systems. No tutorials — only shipped, measurable work.
+**Building AI tools and digital experiences that make an impact.** 🌌
 
 ---
 
-### Skills
+## 🌟 About Me
+Hey there! I'm **Niyas**, an Electronics & Communication Engineering student passionate about blending **AI**, **healthtech**, **design**, and **web development** to create impactful solutions. I love crafting innovative tools that simplify complex problems, with a focus on healthtech and user-friendly digital experiences. When I'm not coding, you'll find me designing sleek graphics on Canva or exploring eco-friendly products on Shopify.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,opencv,pandas,scikit-learn,html,css,javascript,git,docker,vscode&perline=8" />
-</div>
-
-**Core**  
-- AI/ML: TensorFlow, OpenCV, scikit-learn, pandas  
-- Backend & Web: Flask, FastAPI (in progress)  
-- Deployment: Render, Railway, Vercel  
-- ECE overlap: Edge inference, IoT integration  
+- 🎓 Studying **Electronics & Communication Engineering**
+- 🧠 Certified in **SAP**; learning **Python**, **Excel**, and **Web Development**
+- 🌱 Passionate about **AI-driven healthtech**, sustainable tech, and creative design
+- ⚡ Fun fact: I’m always chasing the next big idea to make life healthier and smarter!
 
 ---
 
-### Projects
+## 🛠️ Tech Stack
+Here’s the tech I’m working with to build the future:
 
-**Featured**  
-- [AI Insights Engine](https://github.com/Niyas-J/ai-insights-engine) — Production web dashboard for real-time ML inference  
-- [Edge AI Monitor](https://github.com/Niyas-J/edge-ai-monitor) — Hardware-aware monitoring platform  
-- [Fullstack ML Pipeline](https://github.com/Niyas-J/ml-pipeline-pro) — End-to-end data processing and serving system  
-
-All projects include live demos, screenshots, and one-command setup.
-
----
-
-### Tools & Environment
-
-- **Languages**: Python (primary), JavaScript  
-- **Frameworks**: Flask, Streamlit (for rapid prototypes)  
-- **Infrastructure**: Git, Docker, CI/CD basics  
-- **Editors**: VS Code  
+| **Category**         | **Tools & Technologies**                          |
+|----------------------|--------------------------------------------------|
+| **Programming**      | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Web Development**  | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| **Design**           | ![Canva](https://img.shields.io/badge/-Canva-00C4B4?logo=canva&logoColor=white) |
+| **Tools**            | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) |
+| **Certifications**   | ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white) |
 
 ---
 
-### Current Focus
+## 🚀 Current Projects
+### MediScan-AI 🩺
+An **AI-powered healthtech platform** designed to analyze medicines and simplify medical data for users. MediScan-AI empowers people to understand their prescriptions and health information with ease, using cutting-edge AI and intuitive design.
 
-Scaling AI systems from notebook to production. Deepening full-stack deployment, model optimization, and ECE-integrated edge solutions. Always open to high-impact collaborations.
+- **Features**: Medicine analysis, user-friendly medical data visualization, health insights
+- **Tech Stack**: Python, TensorFlow, React, Flask
+- **Status**: Actively developing new features and improving AI accuracy
+- **Repo**: [MediScan-AI](https://github.com/Niyas-J/BMediScan-AI)
+
+*More exciting projects coming soon! Stay tuned.* ✨
 
 ---
 
-### Connect
+## 🌐 Connect with Me
+Let’s collaborate, share ideas, or just chat about tech and design!
 
-- Instagram: [@_niyas.j](https://www.instagram.com/_niyas.j)  
-- Email: [add your professional email]  
-- LinkedIn: [add link — mandatory for recruiters]  
+[![Portfolio](https://img.shields.io/badge/Portfolio-niyas.dev-00C4B4?logo=web&logoColor=white)](https://niyas.dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niyas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyas-ece)  
+[![Email](https://img.shields.io/badge/Email-niyas@healthtech.io-D14836?logo=gmail&logoColor=white)](mailto:niyas@healthtech.io)
 
-**Open to 2026 internships and hackathon teams.**  
-Let’s ship.
+---
+
+## 📊 GitHub Stats
+![Niyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niyas-J&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&text_color=C3E2FF)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niyas-J&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&text_color=C3E2FF)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Niyas-J&theme=buddhism&no-frame=true&row=2&column=2)
+
+---
+
+## 📈 Activity Graph
+![Niyas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Niyas-J&theme=react-dark&bg_color=0D1117&color=00C4B4&line=7E3ACE&point=C3E2FF)
+
+---
+
+*“The future is not something we enter; the future is something we create.”*  
+Let’s build something extraordinary together! 💡
