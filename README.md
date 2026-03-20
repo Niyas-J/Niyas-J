@@ -46,8 +46,8 @@ An **AI-powered healthtech platform** designed to analyze medicines and simplify
 Let’s collaborate, share ideas, or just chat about tech and design!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-niyas.dev-00C4B4?logo=web&logoColor=white)](https://niyas.dev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niyas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyas-ece)  
-[![Email](https://img.shields.io/badge/Email-niyas@healthtech.io-D14836?logo=gmail&logoColor=white)](mailto:niyas@healthtech.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niyas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyas-jahangeer)  
+[![Email](https://img.shields.io/badge/Email-niyas@healthtech.io-D14836?logo=gmail&logoColor=white)](mailto:niyas@kvgce.ac.in)
 
 ---
 
